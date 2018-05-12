@@ -1,0 +1,34 @@
+_repo: Geschiedenis-der-Europeesche-Volken_19774
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kretschmer, Albert
+    birthdate: 1825
+    deathdate: 1891
+    gutenberg_agent_id: '8877'
+    url: http://www.gutenberg.org/2009/agents/8877
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kohl, Johann Georg
+    birthdate: 1808
+    deathdate: 1878
+    gutenberg_agent_id: '8876'
+    url: http://www.gutenberg.org/2009/agents/8876
+    wikipedia: http://de.wikipedia.org/wiki/Johann_Georg_Kohl
+description: ''
+gutenberg_issued: '2006-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19774'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Ethnology -- Europe'
+title: Geschiedenis der Europeesche Volken
+url: http://www.gutenberg.org/ebooks/19774
